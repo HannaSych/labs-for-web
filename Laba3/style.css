@@ -1,0 +1,14 @@
+*{
+    background: #f6c0d6;
+}
+legend{
+    background: #f6eaea;  
+    border-radius: 20;
+}
+input{
+    background: #f6eaea;
+}
+fieldset{
+    margin: 50px;
+    background: #f6eaea;
+}
