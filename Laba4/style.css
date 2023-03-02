@@ -1,0 +1,12 @@
+*{
+    background: #fcfcee;
+}
+p.test, h2.hello{
+    color: blueviolet;
+}
+p i {
+color: rgb(43, 226, 144);
+}
+[required]{
+    background: #ed6565;
+}

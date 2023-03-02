@@ -5,7 +5,9 @@ legend{
     background: #f6eaea;  
     border-radius: 20;
 }
-з
+input{
+    background: #f6eaea;
+}
 fieldset{
     margin: 50px;
     background: #f6eaea;
